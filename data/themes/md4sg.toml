@@ -1,0 +1,25 @@
+# Theme metadata
+name = "MD4SG"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#CB2701"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#2b2b2b"
+menu_text_active = "#CB2701"
+menu_title = "#CB2701"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(249, 249, 249)"
+
+link = "#20668F"
+link_hover = "#20668F"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

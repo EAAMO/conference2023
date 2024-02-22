@@ -1,0 +1,168 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#home"
+  weight = 10
+
+[[main]]
+  name = "Conference Information"
+  identifier = "conference"
+  weight = 20
+
+[[main]]
+  name = "Conference Schedule"
+  url = "schedule"
+  weight = 10
+  parent = "conference"
+
+[[main]]
+  name = "Venue"
+  url = "venue"
+  weight = 10
+  parent = "conference"
+
+[[main]]
+  name = "Keynote Talks"
+  url = "keynotes"
+  weight = 20
+  parent = "conference"
+
+[[main]]
+  name = "List of Accepted Papers"
+  url = "papers"
+  weight = 30
+  parent = "conference"
+
+[[main]]
+  name = "Poster Session"
+  url = "posters"
+  weight = 30
+  parent = "conference"
+
+[[main]]
+  name = "Doctoral Consortium"
+  url = "doctoral_consortium"
+  weight = 40
+  parent = "conference"
+
+[[main]]
+  name = "Faculty Network Event"
+  url = "faculty_network"
+  weight = 50
+  parent = "conference"
+
+[[main]]
+  name = "Social Events"
+  url = "social_events"
+  weight = 60
+  parent = "conference"
+
+[[main]]
+  name = "Tutorial"
+  url = "tutorial"
+  weight = 70
+  parent = "conference"
+
+[[main]]
+  name = "Best Paper Awards"
+  url = "awards"
+  weight = 80
+  parent = "conference"
+
+[[main]]
+  name = "Call for Participation"
+  identifier = "call_for_participation"
+  weight = 30
+
+[[main]]
+  name = "Call for Papers"
+  url = "cfp"
+  weight = 10
+  parent = "call_for_participation"
+
+[[main]]
+  name = "Financial Assistance"
+  url = "financial_assistance"
+  weight = 20
+  parent = "call_for_participation"
+
+[[main]]
+  name = "Call for Volunteering"
+  url = "volunteering"
+  weight = 30
+  parent = "call_for_participation"
+
+[[main]]
+  name = "Registration"
+  url = "registration"
+  weight = 40
+
+[[main]]
+  name = "Organization"
+  identifier = "organization"
+  weight = 50
+
+[[main]]
+  name = "Committees"
+  url = "committee"
+  weight = 10
+  parent = "organization"
+
+[[main]]
+  name = "Policies"
+  url = "policies"
+  weight = 20
+  parent = "organization"
+
+[[main]]
+  name = "EAAMO Archives"
+  identifier = "eaamo_archive"
+  weight = 60
+
+[[main]]
+  name = "EAAMO 22 at a glance"
+  url = "EAAMO_22_at_a_glance"
+  weight = -30
+  parent = "eaamo_archive"
+
+[[main]]
+  name = "EAAMO 2022"
+  url = "https://eaamo2022.eaamo.org"
+  weight = -20
+  parent = "eaamo_archive"
+
+[[main]]
+  name = "EAAMO 2021"
+  url = "https://eaamo2021.eaamo.org"
+  weight = -10
+  parent = "eaamo_archive"
+
+[[main]]
+  name = "MD4SG"
+  url = "https://md4sg.com"
+  weight = 70
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "media/resume.pdf"
+#    weight = 70
+
+# An example of dropdown menu
+# [[main]]
+#  identifier = "program"
+#  name = "Program"
+#  url = "program"
+#  weight = 40
+
+# [[main]]
+#  name = "Invited Speakers"
+#  url = "speakers"
+#  weight = -30
+#  parent = "program"
