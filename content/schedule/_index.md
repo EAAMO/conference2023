@@ -48,7 +48,7 @@ Navigation:\
 | 8       | 3:00 PM   | Break                                               | Concourse     |
 |         | 3:00 PM   | [**Social event**: Regional Groups Discussion Tables](../social_events/)     | Concourse     |
 | 9       | 3:30 PM   | [**Tutorial**: Tutorial on effective, deployed, and thoughtful AI for Social Impact](../tutorial/)                                                                      | Main Space    |
-| 10      | 5:30 PM   | [**Doctoral Consortium**  ](https://eaamo.org/doctoral_consortium/)                               | Main Space    |
+| 10      | 5:30 PM   | [**Doctoral Consortium**  ](https://conference2023.eaamo.org/doctoral_consortium/)                               | Main Space    |
 |         | 5:30 PM   | Break and poster installation                       | Main Space    |
 |         | 6:00 PM   | "How-to" Talk                                       | Main Space    |
 |         | 6:30 PM   | Lightning Talks                                     | Main Space    |

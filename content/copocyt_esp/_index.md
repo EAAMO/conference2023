@@ -74,7 +74,7 @@ Navigation links:
 
 <img src='../copocyt/C1.jpg'>
 
-Poster: [“Derechos Lingüísticos de Lenguas Indígenas en México: Percepción y Conocimiento de Derechos Lingüísticos en Juventud Tének”](https://eaamo.org/dc/dc_copocyt_maria_teresa_santiago.pdf)\
+Poster: [“Derechos Lingüísticos de Lenguas Indígenas en México: Percepción y Conocimiento de Derechos Lingüísticos en Juventud Tének”](https://conference2023.eaamo.org/dc/dc_copocyt_maria_teresa_santiago.pdf)\
 Mentora: [Michelle González-Amador](https://www.merit.unu.edu/about-us/profile/?staff_id=2422)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -116,7 +116,7 @@ Mentora: [Michelle González-Amador](https://www.merit.unu.edu/about-us/profile/
 
 <img src='../copocyt/C2.jpg'>
 
-Poster: [“Vivienda Adecuada en los Pueblos Indígenas Tének”](https://eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg)\
+Poster: [“Vivienda Adecuada en los Pueblos Indígenas Tének”](https://conference2023.eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg)\
 Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -158,7 +158,7 @@ Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academi
 
 <img src='../copocyt/C3.jpg'>
 
-Poster: [“Contextualizando la Adherencia a Medicamento contra Tuberculosis en Comunidades Indígenas de la Huasteca Potosina: Un Posible Camino a Metodologías Facilitadas por I.A.”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
+Poster: [“Contextualizando la Adherencia a Medicamento contra Tuberculosis en Comunidades Indígenas de la Huasteca Potosina: Un Posible Camino a Metodologías Facilitadas por I.A.”](https://conference2023.eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
 Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -200,7 +200,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 <img src='../copocyt/C4.jpg'>
 
-Poster: ["Grado de conocimientos sobre el parto humanizado en mujeres gestantes en una comunidad rural de Tancanhuitz, S. L. P"](https://eaamo.org/dc/dc_copocyt_idalia_rojas_martinez.pdf)\
+Poster: ["Grado de conocimientos sobre el parto humanizado en mujeres gestantes en una comunidad rural de Tancanhuitz, S. L. P"](https://conference2023.eaamo.org/dc/dc_copocyt_idalia_rojas_martinez.pdf)\
 Mentora: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -242,7 +242,7 @@ Mentora: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/)
 
 <img src='../copocyt/C5.jpg'>
 
-Poster: ["Factores asociados a desnutrición en el Adulto Mayor en una comunidad indígena de Tancanhuitz S. L. P."](https://eaamo.org/dc/dc_copocyt_leydi_rojas.pdf)\
+Poster: ["Factores asociados a desnutrición en el Adulto Mayor en una comunidad indígena de Tancanhuitz S. L. P."](https://conference2023.eaamo.org/dc/dc_copocyt_leydi_rojas.pdf)\
 Mentoras: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda Flores Vazquez](https://www.linkedin.com/in/dr-imelda-flores-vazquez-1a3262171/)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -284,7 +284,7 @@ Mentoras: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda 
 
 <img src='../copocyt/C6.jpg'>
 
-Poster: [“Contextualizando la Adherencia a Medicamento contra Tuberculosis en Comunidades Indígenas de la Huasteca Potosina: Un Posible Camino a Metodologías Facilitadas por I.A.”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
+Poster: [“Contextualizando la Adherencia a Medicamento contra Tuberculosis en Comunidades Indígenas de la Huasteca Potosina: Un Posible Camino a Metodologías Facilitadas por I.A.”](https://conference2023.eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
 Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)
@@ -326,7 +326,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 <img src='../copocyt/C7.jpg'>
 
-Poster: [“Vivienda Digna; el Caso de Fraude en Materia de Vivienda Contra Mujeres Indígenas del Municipio de Xilitla, S.L.P”](https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)\
+Poster: [“Vivienda Digna; el Caso de Fraude en Materia de Vivienda Contra Mujeres Indígenas del Municipio de Xilitla, S.L.P”](https://conference2023.eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)\
 Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
 - ¿Nos puedes platicar sobre tu comunidad de origen? (Nombre, lenguaje, geografía, algunas costumbres, etc.)

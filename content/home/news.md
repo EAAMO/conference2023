@@ -41,7 +41,7 @@ design:
 ---
 - EAAMO'23 proceedings are now [online](https://dl.acm.org/doi/proceedings/10.1145/3617694). Proceedings from previous years can be found on the [ACM Digital Library](https://dl.acm.org/conference/eaamo/proceedings) as well.
 - Keynote speakers are announced. Please visit the [keynote speakers page]({{< ref "/keynotes" >}}) to find speakers, their bios, and abstracts.
-- EAAMO'23 is approaching. The conference will take place at the [Agganis Arena (Francis D. Burke Club Room)](https://eaamo.org/venue/) in Boston. More information is available at a [dedicated page for venue]({{< ref "/venue" >}}).
+- EAAMO'23 is approaching. The conference will take place at the [Agganis Arena (Francis D. Burke Club Room)](https://conference2023.eaamo.org/venue/) in Boston. More information is available at a [dedicated page for venue]({{< ref "/venue" >}}).
 - Preliminary [conference schedule]({{< ref "/schedule" >}}) is now available.
 - Registration for EAAMO'23 is open! Please visit the [registration page]({{< ref "/registration" >}}) for more information.
 

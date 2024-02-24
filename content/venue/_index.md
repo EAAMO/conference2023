@@ -58,7 +58,7 @@ Neighborhoods with a lot of dinner options:
 
 ## Community and Safety
 
-Please review [our policies](https://eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
+Please review [our policies](https://conference2023.eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
 
 - **Prioritizing a safe and inclusive conference space.**
   - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.
