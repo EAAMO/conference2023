@@ -95,7 +95,7 @@ Navigation:\
 | 120       | Santiago R. Balseiro and Shangzhou Xia | [Uniformly Bounded Regret in Dynamic Fair Allocation](../papers/EAAMO23_paper_120.pdf) |
 | 125       | Vijay Keswani and L. Elisa Celis | Addressing Strategic Manipulation Disparities in Fair Classification |
 | 128       | Tomas Larroucau, Ignacio Rios, Christopher Neilson, Anais Fabre and Manuel Martinez | [Application Mistakes and Information frictions in College Admissions](../papers/EAAMO23_paper_128.pdf)  |
-| 135       | Vince Bartle, Nicola Dell and Nikhil Garg | [Faster Information for Effective LTC Discharge, A Field Study in Adult Foster Care](../papers/EAAMO23_paper_135.pdf) |
+| 135       | Vince Bartle, Nicola Dell and Nikhil Garg | Faster Information for Effective LTC Discharge, A Field Study in Adult Foster Care |
 | 138       | Woojin Jung, Dimitrios Ntarlagiannis and Saeed Ghadimi | [Using AI/ML to evaluate the distribution of community development aid across Myanmar](../papers/EAAMO23_paper_138.pdf)  |
 | 144       | Alicia Boyd, Davi Liang and Anaelia Ovalle | Should they? Mobile Biometrics and Technopolicy meet Queer Community Considerations |
 | 172       | Meirav Segal, Anne-Marie George and Christos Dimitrakakis | Policy Fairness and Unknown Bias Dynamics in Sequential Allocations |
